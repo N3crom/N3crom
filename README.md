@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hey, I'm Mathias 👋
 
+🎓 Student in Game Programming (Unity & Unreal) — 3rd years
+
+## 📫 How to reach me:
+- LinkedIn : [MANENQ Mathias](https://www.linkedin.com/in/mathias-manenq-9b5719291/)
+- Linktree : [MANENQ Mathias](https://linktr.ee/mathiasmanenq)
+- Email : mathias.manenq@gmail.com
 <!--
 **N3crom/N3crom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
