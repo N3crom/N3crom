@@ -8,7 +8,6 @@
 - Email : mathias.manenq@gmail.com
 
 ##
-https://streak-stats.demolab.com?user=N3crom
 <!--
 **N3crom/N3crom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
